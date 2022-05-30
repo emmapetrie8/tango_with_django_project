@@ -1,1 +1,2 @@
-# tango_with_django_project
+# Web app development (COMPSCI2021) 
+Tango with Django book chapters 1-10
